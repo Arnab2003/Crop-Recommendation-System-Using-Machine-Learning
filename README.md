@@ -22,4 +22,3 @@ A **Machine Learning-powered Crop Recommendation System** that suggests the best
 
 ---
 
-## 📂 Project Structure
